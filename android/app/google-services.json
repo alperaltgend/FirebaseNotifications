@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864788036114",
+    "project_id": "pruebafinal-4d9ce",
+    "storage_bucket": "pruebafinal-4d9ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864788036114:android:39b8870c6e27942a5936cb",
+        "android_client_info": {
+          "package_name": "com.example.flutterend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJiSU0b6DQnDstYv-zXwXf2--DlIaRNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
